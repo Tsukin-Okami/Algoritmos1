@@ -1,0 +1,14 @@
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\bin\Debug\net9.0\CalculadoraDeArea.exe
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\bin\Debug\net9.0\CalculadoraDeArea.deps.json
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\bin\Debug\net9.0\CalculadoraDeArea.runtimeconfig.json
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\bin\Debug\net9.0\CalculadoraDeArea.dll
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\bin\Debug\net9.0\CalculadoraDeArea.pdb
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.AssemblyInfoInputs.cache
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.AssemblyInfo.cs
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.csproj.CoreCompileInputs.cache
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.dll
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\refint\CalculadoraDeArea.dll
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.pdb
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\CalculadoraDeArea.genruntimeconfig.cache
+C:\Users\Jhoni Brandão\source\repos\CalculadoraDeArea\obj\Debug\net9.0\ref\CalculadoraDeArea.dll
