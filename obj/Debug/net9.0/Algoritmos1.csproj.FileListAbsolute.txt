@@ -26,3 +26,4 @@ C:\Users\Jhoni Brandão\source\repos\Algoritmos1\obj\Debug\net9.0\refint\Algorit
 C:\Users\Jhoni Brandão\source\repos\Algoritmos1\obj\Debug\net9.0\Algoritmos1.pdb
 C:\Users\Jhoni Brandão\source\repos\Algoritmos1\obj\Debug\net9.0\Algoritmos1.genruntimeconfig.cache
 C:\Users\Jhoni Brandão\source\repos\Algoritmos1\obj\Debug\net9.0\ref\Algoritmos1.dll
+C:\Users\Jhoni Brandão\source\repos\Algoritmos1\obj\Debug\net9.0\Algoritmos1.sourcelink.json
